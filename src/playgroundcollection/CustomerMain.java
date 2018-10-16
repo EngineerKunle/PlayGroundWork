@@ -15,7 +15,6 @@ public class CustomerMain {
         Customer argos = new Customer("Carrol", "SE2 7UU", 2000);
         Customer dixons = new Customer("Harry", "SE2 7UL", 4000);
 
-
         Set<Customer> customers = new HashSet<Customer>();
 //        customers.add(new Customer("Kunle", "N17 6Rl", 1000));
         customers.add(argos);
